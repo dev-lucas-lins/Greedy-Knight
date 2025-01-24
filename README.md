@@ -13,9 +13,10 @@ The Greedy Knight must get rich or die trying.
   - Quit
 - **Hostile enemies** with aggressive movement patterns.
 - **Animated characters**, both at rest and while in motion.
+- **Original music** with main, fist stage and game over themes.
 - **Collision sounds** for interactions.
 - **Victory and defeat** conditions:
-  - Game-over and game-win screens.
+  - Game over and game win screens.
 - Essential 2D platformer mechanics, including:
   - Jump logic
   - Collision detection
