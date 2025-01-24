@@ -11,7 +11,7 @@ The Greedy Knight must get rich or die trying.
   - Start
   - Sound On/Off
   - Quit
-- **Hostile enemies** with aggressive and random movement patterns.
+- **Hostile enemies** with aggressive and movement patterns.
 - **Animated characters**, both at rest and while in motion.
 - **Collision sounds** for interactions.
 - **Victory and defeat** conditions:
