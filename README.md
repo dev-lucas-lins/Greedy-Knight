@@ -1,6 +1,8 @@
 # Greedy-Knight
 The Greedy Knight must get rich or die trying.
 
+![alt text](images/knight-run-1)
+
 Game application made only with the Pygame Zero library, made for study and technical development purposes.
 
 Free sprites and sounds by Brackeys available at https://brackeysgames.itch.io/brackeys-platformer-bundle.
